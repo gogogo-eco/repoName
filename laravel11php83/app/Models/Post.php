@@ -10,7 +10,7 @@ class Post extends Model
         'title',
         'content',
         'author',
-        'published'
+        'published',
     ];
 
     protected $casts = [
